@@ -1,5 +1,5 @@
 # COSSIM-HPC
-Extension of COSSIM simulation framework which can simulate complete heterogeneous HPC Systems supporting ARM and RISC-V CPUs.
+This is the COSSIM extension which is developed in the context of RED-SEA H2020 project. The extended simulation framework can simulate complete heterogeneous HPC Systems supporting ARM and RISC-V CPUs.
 
 ## The contribution of this work can be summarized in the following points:
  - The integration of PCI Host to RISC-V GEM5 board and adaptation of GEM5 ethernet card to it in order to simulate multi-node RISC-V systems in COSSIM simulator (we merge the development code in the official GEM5 repository).
