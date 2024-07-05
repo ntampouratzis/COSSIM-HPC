@@ -1,4 +1,4 @@
-# RED-SEA
+# COSSIM-HPC
 This is the COSSIM [1] extension which is developed in the context of RED-SEA H2020 project. The extended simulation framework can simulate complete heterogeneous HPC Systems supporting ARM and RISC-V CPUs.
 
 ## The contribution of this work can be summarized in the following points:
