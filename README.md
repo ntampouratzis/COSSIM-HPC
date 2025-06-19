@@ -9,9 +9,9 @@ This is the COSSIM [1] extension which is developed to simulate complete heterog
 - The use of VEF traces generated with COSSIM-HPC (using ARM and RISC-V processors) to feed the SAURON network simulator, which models the InfiniBand and BXI network technologies.
 
 ## Execution
-We have created a Virual Machine which we have install everything there. You may donwload it from [here](http://kition.mhl.tuc.gr:8000/d/0cabeb13c1/) (It is tested using VMWare 16.1 tools - [download the VM tools for Windows from here](http://kition.mhl.tuc.gr:8000/f/1932b6edea)). The VM password is <b>redsea1234</b> .
+<!-- We have created a Virual Machine which we have install everything there. You may donwload it from [here](http://kition.mhl.tuc.gr:8000/d/0cabeb13c1/) (It is tested using VMWare 16.1 tools - [download the VM tools for Windows from here](http://kition.mhl.tuc.gr:8000/f/1932b6edea)). The VM password is <b>redsea1234</b> .
 
-You may see the related video for instructions [MPI-on-COSSIM-multinode](http://kition.mhl.tuc.gr:8000/f/faec6bbe61/).
+You may see the related video for instructions [MPI-on-COSSIM-multinode](http://kition.mhl.tuc.gr:8000/f/faec6bbe61/). -->
 
 ## References
 <a id="1">[1]</a> 
