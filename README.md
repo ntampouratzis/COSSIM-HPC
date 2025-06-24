@@ -12,7 +12,7 @@ This is the COSSIM [1] extension which is developed to simulate complete heterog
 ## Execution
 We have created a Virual Machine which we have install everything there. You may donwload it from [here](https://ihuedu-my.sharepoint.com/:f:/g/personal/ntampouratzis_ihu_gr/EpgTQ8xY-FtHgnLzDxYJCtQBNnVsaTyawzHqjFu7B8lxIA?e=LanTlK) (It is tested using VMWare 16.1 tools - [download the VM tools for Windows from here](https://ihuedu-my.sharepoint.com/:u:/g/personal/ntampouratzis_ihu_gr/EceCqMJ2-QdOpL3wbKX7bW8BZAuX1MzVrEpsxS9IpzNXJw?e=9HiYY4)). The VM password is <b>redsea1234</b> .
 
-You may see the related video for instructions [MPI-on-COSSIM-multinode](https://ihuedu-my.sharepoint.com/:v:/g/personal/ntampouratzis_ihu_gr/ESUBDBEs3n9Jt0sJ9vCBqaoBVIqRlWH1ql45P6MrVsPmMg). 
+You may see the related video for instructions [MPI-on-COSSIM-multinode](https://ihuedu-my.sharepoint.com/:v:/g/personal/ntampouratzis_ihu_gr/ESDvvhcug59KgEsFf6vtsF0Bu2uiElYdARDRWMvMPbBiwQ). 
 
 ## References
 <a id="1">[1]</a> 
