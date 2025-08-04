@@ -1,5 +1,5 @@
 # COSSIM-HPC
-This is the COSSIM [1] extension which is developed to simulate complete heterogeneous HPC Systems supporting ARM and RISC-V CPUs.
+This is the COSSIM [1] extension which is developed to simulate complete heterogeneous HPC Systems supporting modern ARM and RISC-V CPUs.
 
 ## The contribution of this work can be summarized in the following points:
 - The first known open-source integrated simulation framework which can simulate complete heterogeneous HPC Systems supporting Full System ARM and RISC-V architectures.
